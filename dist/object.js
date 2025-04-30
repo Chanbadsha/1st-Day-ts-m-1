@@ -1,9 +1,8 @@
 "use strict";
 const workerInfo = {
-    companyName: "Programmig Hero BD",
+    companyName: "Programming Hero BD",
     role: "Frontend Dev",
     firstName: "Chan",
-    middleName: "Badsha",
     lastName: "Bhuiyan",
     isPresent: true
 };
